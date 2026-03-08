@@ -4,6 +4,12 @@ This project explores different approaches for detecting irony and sarcasm in te
 
 The system compares traditional machine learning models with deep learning and transformer-based models to evaluate their effectiveness in identifying figurative language.
 
+## Research Paper
+
+You can read the research paper here:
+
+[View the paper](papers/sarcasm_detection_paper.pdf)
+
 ---
 
 ## Project Overview

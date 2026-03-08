@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pt
+*.pkl
+*.h5
+
+# Large model folders
+bilstm_model/
+irony_model/
+lr_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

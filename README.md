@@ -8,7 +8,7 @@ The system compares traditional machine learning models with deep learning and t
 
 You can read the research paper here:
 
-[View the paper](papers/sarcasm_detection_paper.pdf)
+[View the paper](papers/Irony_and_detection.pdf)
 
 ---
 

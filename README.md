@@ -169,6 +169,7 @@ Response:
 ```
 
 ---
+```text
 Tweet
   ↓
 Cleaning
@@ -178,6 +179,7 @@ Tokenization
 Model (LR / BiLSTM / DistilBERT)
   ↓
 Irony Prediction
+```
 
 
 ## Technologies Used
